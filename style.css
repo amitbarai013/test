@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.hello{
+    color: rgb(75, 75, 75);
+}
+.name-color{
+    color: rgb(66, 0, 128);
+}
+.paragraph{
+    text-align: justify;
+    
+}
+.half-part{
+    width: 40%;
+    float: left;
+    padding-left: 6%;
+    margin-left: 4%;
+}
+.half-part img{
+    width: 50%;
+}
+.button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, rgb(66, 0, 128), rgb(65, 3, 65) );
+    color: whitesmoke;
+    padding: 12px 24px;
+}
+.project{
+    height: 50%;
+}
+.latest{
+    color: rgb(66, 0, 128);
+    padding-top: 40px;
+    margin-top: 40px;
+    text-align: left;
+}
+.image{
+    width: 100%;
+    
+}
+.images{
+    text-align: left;
+}
+
